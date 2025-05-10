@@ -1,0 +1,18 @@
+[
+  {
+    "type": "expense",
+    "amount": 10000,
+    "category": "car",
+    "date": "2025-05-10",
+    "month": "May",
+    "card": ""
+  },
+  {
+    "type": "expense",
+    "amount": 1000,
+    "category": "f",
+    "date": "2025-05-10",
+    "month": "May",
+    "card": ""
+  }
+]
